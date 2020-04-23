@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Starter Kit
+          React Continuous Integration
         </a>
       </header>
     </div>
